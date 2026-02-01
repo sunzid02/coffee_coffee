@@ -2,8 +2,11 @@
 
 A single-page prototype that demonstrates a **brew-resume** feature for pod coffee machines.
 
-### [👉 View Live Demo](https://sunzid02.github.io/coffee_coffee/)
-
+<h3>
+  <a href="https://sunzid02.github.io/coffee_coffee/" target="_blank">
+    👉 View Live Demo
+  </a>
+</h3>
 ---
 
 ## The Problem
