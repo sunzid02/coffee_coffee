@@ -75,9 +75,9 @@ export default function TassimoMachine({ state, tankPercent }: Props) {
 
       {/* ── brand ── */}
       <text x="110" y="130" textAnchor="middle" fontSize="13" fontWeight="bold"
-            fill="#c0392b" fontFamily="'Arial Black', sans-serif" letterSpacing="3">TASSIMO</text>
+            fill="#c0392b" fontFamily="'Arial Black', sans-serif" letterSpacing="3">Sarker</text>
       <text x="110" y="142" textAnchor="middle" fontSize="6.5"
-            fill="#666"    fontFamily="sans-serif"              letterSpacing="1.5">BY JACOBS</text>
+            fill="#666"    fontFamily="sans-serif"              letterSpacing="1.5">BY Sunzid</text>
 
       {/* ── brew spout ── */}
       <rect x="96"  y="195" width="28" height="16" rx="4" fill="#222" />

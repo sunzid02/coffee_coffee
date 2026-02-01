@@ -32,5 +32,5 @@ export const HEATING_DURATION_MS = 2000
 export const TARGET_MIN = 50
 export const TARGET_MAX = 500
 export const TARGET_STEP = 10
-export const DEFAULT_TARGET = 200
-export const DEFAULT_TANK = 300
+export const DEFAULT_TARGET = 250
+export const DEFAULT_TANK = 215

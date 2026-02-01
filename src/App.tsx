@@ -169,7 +169,7 @@ export default function App() {
     <div className="app-root">
       <header className="app-header">
         <h1>Brew Resume Simulator</h1>
-        <p className="app-subtitle">Tassimo pod machine prototype</p>
+        <p className="app-subtitle">Sarker pod machine prototype</p>
       </header>
 
       <main className="app-main">

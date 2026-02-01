@@ -2,6 +2,8 @@
 
 A single-page prototype that demonstrates a **brew-resume** feature for pod coffee machines.
 
+### [👉 View Live Demo](https://sunzid02.github.io/coffee_coffee/)
+
 ---
 
 ## The Problem
@@ -49,6 +51,8 @@ npm run dev
 ```
 
 Open the URL printed in the terminal (usually `http://localhost:5173`).
+
+https://sunzid02.github.io/coffee_coffee/
 
 ---
 

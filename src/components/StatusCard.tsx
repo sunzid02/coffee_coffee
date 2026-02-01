@@ -53,7 +53,7 @@ export default function StatusCard({
         </div>
         <div className="scene-item">
           <TassimoMachine state={machineState} tankPercent={tankPercent} />
-          <span className="scene-label">Tassimo Machine</span>
+          <span className="scene-label">Sarker Machine</span>
         </div>
         <div className="scene-item">
           <CoffeeMug fillPercent={progressPercent} finished={machineState === 'FINISHED'} />
